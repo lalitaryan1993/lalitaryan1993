@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Lalit%20Aryan&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20LLM%20Apps%20%26%20Agents&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Lalit%20Aryan&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20LLM%20Apps%20and%20AI%20Agents&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
 <div align="center">
 
