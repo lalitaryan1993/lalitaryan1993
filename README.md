@@ -107,10 +107,6 @@ End-to-end clinic + optical shop system in production: patients, eye tests, pres
 
 > 🧑‍💻 Both are built with an **AI-assisted engineering workflow** — Claude Code, project `CLAUDE.md` playbooks, custom skills and MCP servers.
 
-<div align="center">
-<a href="https://github.com/lalitaryan1993/FinPilot-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitaryan1993&repo=FinPilot-AI&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
-<a href="https://github.com/lalitaryan1993/laravel-finance-hr-erp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lalitaryan1993&repo=laravel-finance-hr-erp&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
-</div>
 
 ---
 
@@ -142,17 +138,23 @@ End-to-end clinic + optical shop system in production: patients, eye tests, pres
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lalitaryan1993&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitaryan1993&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+</div>
+
+<div align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="170" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="170" />
+</div>
+
+<div align="center">
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="170" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" height="170" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=lalitaryan1993&theme=tokyonight&hide_border=true&background=0d1117" />
 </div>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lalitaryan1993&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
-</div>
 
 ---
 
