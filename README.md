@@ -73,25 +73,10 @@ Conversational AI chatbot built on the OpenAI API.
 </td>
 <td width="50%" valign="top">
 
-#### 🎨 [DALL·E Image Studio](https://github.com/lalitaryan1993/dall-e)
-AI image generation app powered by OpenAI DALL·E.
+#### 📺 [TV Hub Premium](https://github.com/lalitaryan1993/tvhub-premium)
+Free live TV app for Android TV: one-click free Indian channels, Hindi-first rows, auto **channel health check** and English/Hinglish UI. [**⬇️ Download APK**](https://github.com/lalitaryan1993/tvhub-premium/releases/latest)
 
-`JavaScript` `React` `OpenAI Images`
-
-</td>
-</tr>
-</table>
-
-#### 📺 Open-Source Apps
-
-<table>
-<tr>
-<td valign="top">
-
-#### 📺 [TV Hub Premium](https://github.com/lalitaryan1993/tvhub-premium) — Android TV app
-Free live TV for Android TV with a premium look: **one-click free Indian channels** (iptv-org), Hindi-first category rows, automatic **channel health check** so dead channels stay hidden, remote-friendly player and English/Hinglish UI. Built and tested on a real Mi TV Stick.
-
-`Kotlin` `Android TV` `Media3 ExoPlayer` `Docker builds` &nbsp; [**⬇️ Download APK**](https://github.com/lalitaryan1993/tvhub-premium/releases/latest)
+`Kotlin` `Android TV` `Media3 ExoPlayer`
 
 </td>
 </tr>
