@@ -82,6 +82,21 @@ AI image generation app powered by OpenAI DALL·E.
 </tr>
 </table>
 
+#### 📺 Open-Source Apps
+
+<table>
+<tr>
+<td valign="top">
+
+#### 📺 [TV Hub Premium](https://github.com/lalitaryan1993/tvhub-premium) — Android TV app
+Free live TV for Android TV with a premium look: **one-click free Indian channels** (iptv-org), Hindi-first category rows, automatic **channel health check** so dead channels stay hidden, remote-friendly player and English/Hinglish UI. Built and tested on a real Mi TV Stick.
+
+`Kotlin` `Android TV` `Media3 ExoPlayer` `Docker builds` &nbsp; [**⬇️ Download APK**](https://github.com/lalitaryan1993/tvhub-premium/releases/latest)
+
+</td>
+</tr>
+</table>
+
 #### 🏭 Production & Client Work <sub>🔒 private repos</sub>
 
 <table>
@@ -130,7 +145,7 @@ End-to-end clinic + optical shop system in production: patients, eye tests, pres
 **🧱 Backend · Frontend · Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs,ts,js,react,nextjs,tailwind,mysql,postgres,redis,docker,git,github,vscode,figma,wordpress&perline=9" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,kotlin,androidstudio,nodejs,ts,js,react,nextjs,tailwind,mysql,postgres,redis,docker,git,github,vscode,figma,wordpress&perline=9" />
 </p>
 
 ---
